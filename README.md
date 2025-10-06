@@ -45,6 +45,9 @@ class Config:
 | ViT-T@16  | 200   | 58.77%   |
 | ViT-M@16  | 200   |          |
 | ViT-M@16  | 300   |          |
+
+---
+
 <img src = './assert/vit-T@16_accuracy.png'></img>
 <img src = './assert/vit-T@16_loss.png'></img>
 <img src = './assert/vit-T@16_lr.png'></img>
