@@ -33,7 +33,7 @@ class Config:
 ## 🚀训练
 - 1、下载imagenet1k数据集，训练集自行下载，测试集和meta数据可以到这个地址下载：
 [HuggingFace](https://huggingface.co/datasets/royyu/imgnet1k/tree/main)  
-[ModelScope](https://www.modelscope.cn/datasets/rrttyy/imagenet1k/files)  
+[GoogleDrive](https://drive.google.com/drive/folders/1aJx5uSsPYmqmjBzvwjfAObc1X0CEZWrT?usp=drive_link)  
 如果自己处理测试集，只需要将测试集的图片按训练集的方法以文件夹存放即可，最后将train，val，meta数据三个文件夹放在一个imagenet文件夹下即可。
 <img src = './assert/imagenet数据格式.png'></img>
 - 2、修改config.py和train.py的参数
